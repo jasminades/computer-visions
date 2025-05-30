@@ -1,4 +1,4 @@
-# 👁️ Computer Vision Projects – Jasmina
+# Computer Vision Projects
 
 This repository contains a collection of computer vision projects developed as part of the **Foundations of Intelligent Systems Vision** course. Each project demonstrates a key concept in image processing or computer vision, implemented in **C++ using OpenCV**. Below are detailed descriptions, usage instructions, and techniques used in each project.
 
