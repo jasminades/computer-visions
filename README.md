@@ -136,10 +136,10 @@ Train and evaluate a machine learning model to classify 15 types of pollen grain
 ### Run Instructions
 
 ```bash
-# Train a model
+# train a model
 ./train_clf data/train knn_model.xml knn 5
 
-# Test the model
+# test the model
 ./test_clf data/test knn_model.xml predictions_test.csv
 ```
 
